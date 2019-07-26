@@ -1,0 +1,14 @@
+{
+    "name":"bachsoftware.shop",
+    "version":"1.0.0",
+    "author":"bach vu minh",
+    "slug":"bachsite",
+    "createPackageDirectory" : false,
+    "private":true,
+    "installPaths":{
+        "presidecms":"preside"
+    },
+    "dependencies":{
+        "presidecms":"stable"
+    }
+}

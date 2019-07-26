@@ -1,0 +1,9 @@
+.presidecms.richeditor-preview body {
+  padding-right: 10px;
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}
+.presidecms.richeditor-preview body > *:first-child {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}
