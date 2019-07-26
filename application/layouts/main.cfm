@@ -1,7 +1,7 @@
 <cfscript>
 	// body     = renderView();
 	// mainNav  = renderViewlet( "core.navigation.mainNavigation" );
-	 metaTags = renderView( "/general/_pageMetaForHtmlHead" );
+	//metaTags = renderView( "/general/_pageMetaForHtmlHead" );
 	// adminBar = renderView( "/general/_adminToolbar"        );
 
 	// event.include( "css-bootstrap" )
@@ -13,7 +13,6 @@
 <cfoutput><!DOCTYPE html>
 <html>
 	<head>
-		#metaTags#
 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
