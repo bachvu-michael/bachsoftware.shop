@@ -196,7 +196,7 @@
 				<div class="container-fluid">
 					<div class="row align-items-center">
 						<div class="col-lg-5">
-							<div class="about_img">
+							<div class="about_img" style="background-image:url(/assets/kanox/img/my_image/leave.jpg);">
 								<img src="/assets/kanox/img/my_image/leave.jpg" class="img_1" alt="">
 								<img src="/assets/kanox/img/my_image/dog.jpg" width="300" class="img_2" alt="">
 								<h2>25 Years Working <br>
@@ -252,7 +252,7 @@
 									</div>
 									<div class="offset-lg-1 col-lg-6 col-md-6">
 										<div class="demo_img">
-											<img src="/assets/kanox/img/demo/demo_1.png" alt="demo">
+											<img src="/assets/kanox/img/my_image/my_pic (3).jpg" alt="demo">
 										</div>
 									</div>
 								</div>
@@ -261,7 +261,7 @@
 								<div class="row align-items-center">
 									<div class="col-lg-6 col-md-6">
 										<div class="demo_img">
-											<img src="/assets/kanox/img/demo/demo_2.png" alt="demo">
+											<img src="/assets/kanox/img/my_image/my_pic (5).jpg" alt="demo">
 										</div>
 									</div>
 									<div class="col-lg-4 col-md-6">
@@ -295,7 +295,7 @@
 									</div>
 									<div class="offset-lg-1 col-lg-6 col-md-6">
 										<div class="demo_img">
-											<img src="/assets/kanox/img/demo/demo_3.png" alt="demo">
+											<img src="/assets/kanox/img/my_image/my_pic (6).jpg" alt="demo">
 										</div>
 									</div>
 								</div>
@@ -356,11 +356,11 @@
 					</div>
 					<div class="row align-items-center">
 						<div class="col-lg-5">
-							<div class="intro_video_bg">
+							<div class="intro_video_bg" style="background-image: url(/assets/kanox/img/my_image/my_pic_7.jpg);">
 								<div class="intro_video_iner text-center">
 									<div class="intro_video_icon">
 										<a id="play-video_1" class="video-play-button popup-youtube"
-											href="https://www.youtube.com/watch?v=pBFQdxA-apI">
+											href="https://www.youtube.com/watch?v=eoJecvGMR6E">
 											<span class="ti-control-play"></span>
 										</a>
 									</div>
@@ -615,7 +615,7 @@
 					<div class="row">
 						<div class="col-lg-4 col-sm-6">
 							<div class="single_team_member">
-								<img src="/assets/kanox/img/team/team_1.png" alt="">
+								<img src="/assets/kanox/img/my_image/my_pic (8).jpg" alt="">
 								<div class="single_team_text">
 									<h3><a href="##"> Jhosef Williams</a></h3>
 									<p>Web developer</p>
@@ -629,7 +629,7 @@
 						</div>
 						<div class="col-lg-4 col-sm-6">
 							<div class="single_team_member">
-								<img src="/assets/kanox/img/team/team_2.png" alt="">
+								<img src="/assets/kanox/img/my_image/my_pic (8).jpg" alt="">
 								<div class="single_team_text">
 									<h3><a href="##">Daniel Hancock</a></h3>
 									<p>Web developer</p>
@@ -643,7 +643,7 @@
 						</div>
 						<div class="col-lg-4 col-sm-6">
 							<div class="single_team_member">
-								<img src="/assets/kanox/img/team/team_3.png" alt="">
+								<img src="/assets/kanox/img/my_image/my_pic (8).jpg" alt="">
 								<div class="single_team_text">
 									<h3><a href="##">Bernard Perales</a></h3>
 									<p>Web developer</p>
@@ -676,7 +676,7 @@
 						<div class="col-sm-6 col-lg-4 col-xl-4 d-none d-sm-block d-lg-none">
 							<div class="single-home-blog">
 								<div class="card">
-									<img src="/assets/kanox/img/blog/blog_3.png" class="card-img-top" alt="blog">
+									<img src="/assets/kanox/img/my_image/my_pic (9).jpg" class="card-img-top" alt="blog">
 									<div class="card-body">
 										<a href="blog.html">Art, design</a> | <span> March 30, 2019</span>
 										<a href="blog.html">
@@ -693,7 +693,7 @@
 						<div class="col-sm-6 col-lg-4 col-xl-4">
 							<div class="single-home-blog">
 								<div class="card">
-									<img src="/assets/kanox/img/blog/blog_1.png" class="card-img-top" alt="blog">
+									<img src="/assets/kanox/img/my_image/my_pic (9).jpg" class="card-img-top" alt="blog">
 									<div class="card-body">
 										<a href="blog.html">Technology</a> | <span> March 30, 2019</span>
 										<a href="blog.html">
@@ -710,7 +710,7 @@
 						<div class="col-sm-6 col-lg-4 col-xl-4">
 							<div class="single-home-blog">
 								<div class="card">
-									<img src="/assets/kanox/img/blog/blog_2.png" class="card-img-top" alt="blog">
+									<img src="/assets/kanox/img/my_image/my_pic (9).jpg" class="card-img-top" alt="blog">
 									<div class="card-body">
 										<a href="blog.html">Technology</a> | <span> March 30, 2019</span>
 										<a href="blog.html">
@@ -728,7 +728,7 @@
 						<div class="col-sm-6 col-lg-4 col-xl-4">
 							<div class="single-home-blog">
 								<div class="card">
-									<img src="/assets/kanox/img/blog/blog_3.png" class="card-img-top" alt="blog">
+									<img src="/assets/kanox/img/my_image/my_pic (9).jpg" class="card-img-top" alt="blog">
 									<div class="card-body">
 										<a href="blog.html">Technology</a> | <span> March 30, 2019</span>
 										<a href="blog.html">
